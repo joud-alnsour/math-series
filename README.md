@@ -6,4 +6,7 @@ This repository contains testing and ideas for arithmetic series, such as the Fi
 **version** 0.1.0  <br>
 3/1/2022 Initiated
 ## PR
+
+
  [pull Requests](https://github.com/joud-alnsour/math-series/pulls?q=is%3Apr+is%3Aclosed)
+

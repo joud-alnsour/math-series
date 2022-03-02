@@ -1,6 +1,6 @@
 def fibonacci(n):
     """
-   This function should contain only one parameter, n, and should return the fibonacci series' nth value.  
+    This function should contain only one parameter, n, and should return the fibonacci series' nth value.  
     """
 
     if n==0 or n==1 : 
@@ -12,6 +12,7 @@ def fibonacci(n):
 def lucas(n):  
     """
    The lucas function should return the nth value in the lucas numbers collection.
+
     """
 
     if n==0:
@@ -27,6 +28,7 @@ def sum_series(n, one=0, two=1):
     The sum_series function accepts one necessary argument (n) and two optional arguments (one) and (two), respectively, to calculate the sum of the series.
     template's one and two parameters
     Fibonacci Sequence
+
     """
 
     if n==0:

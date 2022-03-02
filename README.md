@@ -8,5 +8,5 @@ This repository contains testing and ideas for arithmetic series, such as the Fi
 ## PR
 
 
- [pull Requests](https://github.com/joud-alnsour/math-series/pulls?q=is%3Apr+is%3Aclosed)
+ [pull Requests](https://github.com/joud-alnsour/math-series/pull/3)
 

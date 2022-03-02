@@ -1,6 +1,5 @@
 from math_series.series import fibonacci, lucas, sum_series
 
-
 def test_fibonacci_0():
     assert fibonacci(0) == 0
 
@@ -30,7 +29,6 @@ def test_lucas_7():
 
 def test_lucas_20():
     assert lucas(20) == 15127
-
 
 def test_sum_series_20_fibo():
     assert sum_series(20) == 6765
